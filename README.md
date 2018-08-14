@@ -1,4 +1,4 @@
-# my-app
+# vuetifyJsHelloApp
 
 ## Project setup
 ```
